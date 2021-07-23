@@ -40,7 +40,7 @@
  - 방법 2 ChromeDriverManager를 활용해서 가져오기
  
  ```python
- driver = webdriver.Chrime(ChromeDriverManager().install()) # 으로 설치
+ driver = webdriver.Chrome(ChromeDriverManager().install()) # 으로 설치
  ```
  
  
