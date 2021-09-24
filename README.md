@@ -101,7 +101,7 @@
  
  https://ltlkodae.tistory.com/18   <- 셀레니움 정보 찾기 참조
  
- 
+ https://pythondocs.net/selenium/%EC%85%80%EB%A0%88%EB%8B%88%EC%9B%80-%ED%81%AC%EB%A1%A4%EB%9F%AC-%EA%B8%B0%EB%B3%B8-%EC%82%AC%EC%9A%A9%EB%B2%95/  <- 셀레니움 참조
 
 
 
